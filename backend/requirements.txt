@@ -1,0 +1,26 @@
+# Python 3.14 compatible — use pip install -r requirements.txt
+fastapi
+"uvicorn[standard]"
+"python-jose[cryptography]"
+"passlib[bcrypt]"
+python-multipart
+motor
+pymongo
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+joblib
+python-dotenv
+pydantic
+pydantic-settings
+imbalanced-learn
+scipy
+matplotlib
+seaborn
+requests
+ucimlrepo
+pytest
+httpx
+anyio

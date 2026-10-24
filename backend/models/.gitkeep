@@ -1,0 +1,2 @@
+# Trained model artifacts are stored here (gitignored).
+# Run scripts/train_all.py to populate this directory.

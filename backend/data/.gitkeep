@@ -1,0 +1,2 @@
+# Raw dataset CSV files are stored here (gitignored).
+# Run scripts/download_data.py to populate this directory.

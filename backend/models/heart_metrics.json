@@ -1,0 +1,32 @@
+{
+  "dataset": "heart",
+  "accuracy": 0.8,
+  "roc_auc": 0.8729139922978177,
+  "pr_auc": 0.7748541017419734,
+  "f1_score": 0.6842105263157895,
+  "precision": 0.6842105263157895,
+  "recall": 0.6842105263157895,
+  "confusion_matrix": {
+    "tn": 35,
+    "fp": 6,
+    "fn": 6,
+    "tp": 13
+  },
+  "feature_names": [
+    "age",
+    "anaemia",
+    "creatinine_phosphokinase",
+    "diabetes",
+    "ejection_fraction",
+    "high_blood_pressure",
+    "platelets",
+    "serum_creatinine",
+    "serum_sodium",
+    "sex",
+    "smoking",
+    "time"
+  ],
+  "training_samples": 324,
+  "test_samples": 60,
+  "trained_at": "2026-10-16T08:02:00.702703+00:00"
+}
